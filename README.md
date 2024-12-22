@@ -1,4 +1,4 @@
-# 반갑습니다. 장진욱입니다.
+Hi! I'm Jinuk Jang!
 
 Profile
 - email: ukjjang01@gmail.com
