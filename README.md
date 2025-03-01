@@ -3,6 +3,7 @@
 Profile
 - email: ukjjang01@gmail.com
 - blog: https://medium.com/@ukjjang
+- linkedin: https://www.linkedin.com/in/jinuk-jang
 
 Career
 - [TechTaka](https://www.argoport.com/) | Backend Engineer | 2024.09 ~ ing
